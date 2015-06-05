@@ -8,4 +8,4 @@ You can change these variables to adjust time warning and disconnection:
 ```
 AFK_WARN_TIME = 300
 AFK_TIME = 900
-``
+```
